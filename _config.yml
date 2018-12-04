@@ -1,0 +1,56 @@
+layout_spectrum: 0.7321597837273142
+typography_spectrum: 0.22388528979245093
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.3814106368018997
+  lightness: 0.44885989197926357
+  saturation: 0.21664950861125298
+  rhythmicContrast: 0.9260984264243173
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: anthroguy101
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6a4885f-b2f5-431f-afa4-1142122ca151.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6a4885f-b2f5-431f-afa4-1142122ca151.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: anthroguy101
+description: Your favorite furry.
+url: 'http://anthroguy101.us/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceb4bc39-8f07-406c-ad58-5cfb3c6660cd.jpg
+purpose:
+  - type: external
+    url: 'http://www.twitter.com/anthroguy101'
+    label: Twitter
+github: true
